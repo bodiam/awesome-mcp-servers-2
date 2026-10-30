@@ -1728,6 +1728,24 @@
     }
   },
   {
+    "name": "ComputeFirst",
+    "url": "https://computefirst.net/docs",
+    "description": "Hosted catalog of versioned, deterministic tools for exact math, CSV and JSON transforms, date math, text, hashing and identifier checks; search, then execute by id. No key.",
+    "category": "utilities-and-examples",
+    "language": "JavaScript",
+    "provider": "ComputeFirst",
+    "tags": [
+      "math",
+      "data-transforms",
+      "deterministic",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://computefirst.net/mcp"
+    }
+  },
+  {
     "name": "Concord MCP",
     "url": "https://github.com/Get-Concord-AI/concord-mcp",
     "description": "Local-first shared work-state for coding agents with presence, claims, messaging, handoffs, and review packets.",
